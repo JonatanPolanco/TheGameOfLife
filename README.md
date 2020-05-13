@@ -1,2 +1,2 @@
 # TheGameOfLife
-Python game
+Conway's The game of life Python game
