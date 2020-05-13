@@ -2,6 +2,9 @@ import pygame
 import numpy as np
 import time
 
+#hecho por Jonatan Polanco
+#https://github.com/JonatanPolanco?tab=repositories
+
 pygame.init()
 
 #  pantalla
